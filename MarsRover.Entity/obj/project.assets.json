@@ -207,29 +207,6 @@
         "build": {
           "build/netstandard2.0/NETStandard.Library.targets": {}
         }
-      },
-      "MarsRover.Business/1.0.0": {
-        "type": "project",
-        "framework": ".NETCoreApp,Version=v2.1",
-        "dependencies": {
-          "MarsRover.Entity": "1.0.0"
-        },
-        "compile": {
-          "bin/placeholder/MarsRover.Business.dll": {}
-        },
-        "runtime": {
-          "bin/placeholder/MarsRover.Business.dll": {}
-        }
-      },
-      "MarsRover.Entity/1.0.0": {
-        "type": "project",
-        "framework": ".NETCoreApp,Version=v2.1",
-        "compile": {
-          "bin/placeholder/MarsRover.Entity.dll": {}
-        },
-        "runtime": {
-          "bin/placeholder/MarsRover.Entity.dll": {}
-        }
       }
     }
   },
@@ -703,22 +680,10 @@
         "netstandard.library.2.0.3.nupkg.sha512",
         "netstandard.library.nuspec"
       ]
-    },
-    "MarsRover.Business/1.0.0": {
-      "type": "project",
-      "path": "../MarsRover.Business/MarsRover.Business.csproj",
-      "msbuildProject": "../MarsRover.Business/MarsRover.Business.csproj"
-    },
-    "MarsRover.Entity/1.0.0": {
-      "type": "project",
-      "path": "../MarsRover.Entity/MarsRover.Entity.csproj",
-      "msbuildProject": "../MarsRover.Entity/MarsRover.Entity.csproj"
     }
   },
   "projectFileDependencyGroups": {
     ".NETCoreApp,Version=v2.1": [
-      "MarsRover.Business >= 1.0.0",
-      "MarsRover.Entity >= 1.0.0",
       "Microsoft.NETCore.App >= 2.1.0"
     ]
   },
@@ -729,11 +694,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\omer-\\source\\repos\\MarsRover\\MarsRover.UI\\MarsRover.UI.csproj",
-      "projectName": "MarsRover.UI",
-      "projectPath": "C:\\Users\\omer-\\source\\repos\\MarsRover\\MarsRover.UI\\MarsRover.UI.csproj",
+      "projectUniqueName": "C:\\Users\\omer-\\source\\repos\\MarsRover\\MarsRover.Entity\\MarsRover.Entity.csproj",
+      "projectName": "MarsRover.Entity",
+      "projectPath": "C:\\Users\\omer-\\source\\repos\\MarsRover\\MarsRover.Entity\\MarsRover.Entity.csproj",
       "packagesPath": "C:\\Users\\omer-\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\omer-\\source\\repos\\MarsRover\\MarsRover.UI\\obj\\",
+      "outputPath": "C:\\Users\\omer-\\source\\repos\\MarsRover\\MarsRover.Entity\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
@@ -751,14 +716,7 @@
       },
       "frameworks": {
         "netcoreapp2.1": {
-          "projectReferences": {
-            "C:\\Users\\omer-\\source\\repos\\MarsRover\\MarsRover.Business\\MarsRover.Business.csproj": {
-              "projectPath": "C:\\Users\\omer-\\source\\repos\\MarsRover\\MarsRover.Business\\MarsRover.Business.csproj"
-            },
-            "C:\\Users\\omer-\\source\\repos\\MarsRover\\MarsRover.Entity\\MarsRover.Entity.csproj": {
-              "projectPath": "C:\\Users\\omer-\\source\\repos\\MarsRover\\MarsRover.Entity\\MarsRover.Entity.csproj"
-            }
-          }
+          "projectReferences": {}
         }
       },
       "warningProperties": {
@@ -771,6 +729,7 @@
       "netcoreapp2.1": {
         "dependencies": {
           "Microsoft.NETCore.App": {
+            "suppressParent": "All",
             "target": "Package",
             "version": "[2.1.0, )",
             "autoReferenced": true

@@ -207,6 +207,16 @@
         "build": {
           "build/netstandard2.0/NETStandard.Library.targets": {}
         }
+      },
+      "MarsRover.Entity/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v2.1",
+        "compile": {
+          "bin/placeholder/MarsRover.Entity.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/MarsRover.Entity.dll": {}
+        }
       }
     }
   },
@@ -680,10 +690,16 @@
         "netstandard.library.2.0.3.nupkg.sha512",
         "netstandard.library.nuspec"
       ]
+    },
+    "MarsRover.Entity/1.0.0": {
+      "type": "project",
+      "path": "../MarsRover.Entity/MarsRover.Entity.csproj",
+      "msbuildProject": "../MarsRover.Entity/MarsRover.Entity.csproj"
     }
   },
   "projectFileDependencyGroups": {
     ".NETCoreApp,Version=v2.1": [
+      "MarsRover.Entity >= 1.0.0",
       "Microsoft.NETCore.App >= 2.1.0"
     ]
   },
@@ -716,7 +732,11 @@
       },
       "frameworks": {
         "netcoreapp2.1": {
-          "projectReferences": {}
+          "projectReferences": {
+            "C:\\Users\\omer-\\source\\repos\\MarsRover\\MarsRover.Entity\\MarsRover.Entity.csproj": {
+              "projectPath": "C:\\Users\\omer-\\source\\repos\\MarsRover\\MarsRover.Entity\\MarsRover.Entity.csproj"
+            }
+          }
         }
       },
       "warningProperties": {
