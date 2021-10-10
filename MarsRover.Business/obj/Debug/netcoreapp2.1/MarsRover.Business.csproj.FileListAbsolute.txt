@@ -10,3 +10,15 @@ C:\Users\omer-\source\repos\MarsRover\MarsRover.Business\obj\Debug\netcoreapp2.1
 C:\Users\omer-\source\repos\MarsRover\MarsRover.Business\obj\Debug\netcoreapp2.1\MarsRover.Business.csproj.CopyComplete
 C:\Users\omer-\source\repos\MarsRover\MarsRover.Business\obj\Debug\netcoreapp2.1\MarsRover.Business.dll
 C:\Users\omer-\source\repos\MarsRover\MarsRover.Business\obj\Debug\netcoreapp2.1\MarsRover.Business.pdb
+C:\Users\omer-\source\repos\TestMelda\MarsRover\MarsRover.Business\bin\Debug\netcoreapp2.1\MarsRover.Business.deps.json
+C:\Users\omer-\source\repos\TestMelda\MarsRover\MarsRover.Business\bin\Debug\netcoreapp2.1\MarsRover.Business.dll
+C:\Users\omer-\source\repos\TestMelda\MarsRover\MarsRover.Business\bin\Debug\netcoreapp2.1\MarsRover.Business.pdb
+C:\Users\omer-\source\repos\TestMelda\MarsRover\MarsRover.Business\bin\Debug\netcoreapp2.1\MarsRover.Entity.dll
+C:\Users\omer-\source\repos\TestMelda\MarsRover\MarsRover.Business\bin\Debug\netcoreapp2.1\MarsRover.Entity.pdb
+C:\Users\omer-\source\repos\TestMelda\MarsRover\MarsRover.Business\obj\Debug\netcoreapp2.1\MarsRover.Business.csprojAssemblyReference.cache
+C:\Users\omer-\source\repos\TestMelda\MarsRover\MarsRover.Business\obj\Debug\netcoreapp2.1\MarsRover.Business.csproj.CoreCompileInputs.cache
+C:\Users\omer-\source\repos\TestMelda\MarsRover\MarsRover.Business\obj\Debug\netcoreapp2.1\MarsRover.Business.AssemblyInfoInputs.cache
+C:\Users\omer-\source\repos\TestMelda\MarsRover\MarsRover.Business\obj\Debug\netcoreapp2.1\MarsRover.Business.AssemblyInfo.cs
+C:\Users\omer-\source\repos\TestMelda\MarsRover\MarsRover.Business\obj\Debug\netcoreapp2.1\MarsRover.Business.csproj.CopyComplete
+C:\Users\omer-\source\repos\TestMelda\MarsRover\MarsRover.Business\obj\Debug\netcoreapp2.1\MarsRover.Business.dll
+C:\Users\omer-\source\repos\TestMelda\MarsRover\MarsRover.Business\obj\Debug\netcoreapp2.1\MarsRover.Business.pdb

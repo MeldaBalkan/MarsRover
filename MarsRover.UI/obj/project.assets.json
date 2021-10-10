@@ -729,11 +729,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\omer-\\source\\repos\\MarsRover\\MarsRover.UI\\MarsRover.UI.csproj",
+      "projectUniqueName": "C:\\Users\\omer-\\source\\repos\\TestMelda\\MarsRover\\MarsRover.UI\\MarsRover.UI.csproj",
       "projectName": "MarsRover.UI",
-      "projectPath": "C:\\Users\\omer-\\source\\repos\\MarsRover\\MarsRover.UI\\MarsRover.UI.csproj",
+      "projectPath": "C:\\Users\\omer-\\source\\repos\\TestMelda\\MarsRover\\MarsRover.UI\\MarsRover.UI.csproj",
       "packagesPath": "C:\\Users\\omer-\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\omer-\\source\\repos\\MarsRover\\MarsRover.UI\\obj\\",
+      "outputPath": "C:\\Users\\omer-\\source\\repos\\TestMelda\\MarsRover\\MarsRover.UI\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
@@ -752,11 +752,11 @@
       "frameworks": {
         "netcoreapp2.1": {
           "projectReferences": {
-            "C:\\Users\\omer-\\source\\repos\\MarsRover\\MarsRover.Business\\MarsRover.Business.csproj": {
-              "projectPath": "C:\\Users\\omer-\\source\\repos\\MarsRover\\MarsRover.Business\\MarsRover.Business.csproj"
+            "C:\\Users\\omer-\\source\\repos\\TestMelda\\MarsRover\\MarsRover.Business\\MarsRover.Business.csproj": {
+              "projectPath": "C:\\Users\\omer-\\source\\repos\\TestMelda\\MarsRover\\MarsRover.Business\\MarsRover.Business.csproj"
             },
-            "C:\\Users\\omer-\\source\\repos\\MarsRover\\MarsRover.Entity\\MarsRover.Entity.csproj": {
-              "projectPath": "C:\\Users\\omer-\\source\\repos\\MarsRover\\MarsRover.Entity\\MarsRover.Entity.csproj"
+            "C:\\Users\\omer-\\source\\repos\\TestMelda\\MarsRover\\MarsRover.Entity\\MarsRover.Entity.csproj": {
+              "projectPath": "C:\\Users\\omer-\\source\\repos\\TestMelda\\MarsRover\\MarsRover.Entity\\MarsRover.Entity.csproj"
             }
           }
         }

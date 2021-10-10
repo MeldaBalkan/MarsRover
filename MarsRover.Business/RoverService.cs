@@ -15,7 +15,7 @@ namespace MarsRover.Business {
                         rover.Rotation = OperationHelper.RightRotationDictionary[rover.Rotation];
                         break;
                     case "M":
-                        if(rover.Rotation == "M") {
+                        if(rover.Rotation == "N") {
                             rover.LocationY++;
                         }
                         else if(rover.Rotation == "S") {
@@ -36,12 +36,10 @@ namespace MarsRover.Business {
                     rover.IsInPlateau = false;
                     return;
                 }
-            }     
-
+            }
         }
 
-        public bool CheckPlateau(Plateau plateau, Rover rover)
-        {
+        public bool CheckPlateau(Plateau plateau, Rover rover) {
             if (rover.LocationX < 0 || rover.LocationY < 0) {
                 return false;
             }

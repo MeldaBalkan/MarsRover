@@ -694,11 +694,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\omer-\\source\\repos\\MarsRover\\MarsRover.Entity\\MarsRover.Entity.csproj",
+      "projectUniqueName": "C:\\Users\\omer-\\source\\repos\\TestMelda\\MarsRover\\MarsRover.Entity\\MarsRover.Entity.csproj",
       "projectName": "MarsRover.Entity",
-      "projectPath": "C:\\Users\\omer-\\source\\repos\\MarsRover\\MarsRover.Entity\\MarsRover.Entity.csproj",
+      "projectPath": "C:\\Users\\omer-\\source\\repos\\TestMelda\\MarsRover\\MarsRover.Entity\\MarsRover.Entity.csproj",
       "packagesPath": "C:\\Users\\omer-\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\omer-\\source\\repos\\MarsRover\\MarsRover.Entity\\obj\\",
+      "outputPath": "C:\\Users\\omer-\\source\\repos\\TestMelda\\MarsRover\\MarsRover.Entity\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
